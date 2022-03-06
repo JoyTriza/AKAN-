@@ -17,6 +17,17 @@ body {
     flex-direction: column;
 
 }
+.box {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    background-color: green;
+    margin: 10px;
+    
+
+
+
+}
 .akannames h1 {
     font-size: 70px;
     letter-spacing: 3px;
