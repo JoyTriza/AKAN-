@@ -23,7 +23,8 @@ body {
     border-radius: 50%;
     background-color: green;
     margin: 10px;
-    background-image: url(../IMAGES/ghana.webp);
+    background-image: url(../IMAGES/akan.jpeg);
+    background-size: contain;
 
 }
 .akannames h1 {
