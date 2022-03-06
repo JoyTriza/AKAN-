@@ -12,7 +12,7 @@ body {
     height: 100vh;
     background-image: url(../IMAGES/trixxie.jpeg);
     background-size: cover;
-    color: #e85d04;
+    color: black;
     display: flex;
     flex-direction: column;
 
