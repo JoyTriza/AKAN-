@@ -32,6 +32,7 @@ body {
    height: 50vh;
    background-color: rgba(0, 0, 0, 0.6);
    color: white;
+   overflow: hidden;
 
 }
 .description h1 {
@@ -46,8 +47,12 @@ body {
     font-size: 30px;
     letter-spacing: 1px;
     font-style: italic;
-    padding: 3px 9px;
-
-
-    
+    padding: 3px 9px;   
+}
+.description p {
+    font-size: 20px;
+    font-style: oblique;
+    line-height: 30px;
+    padding: 3px 10px;
+    text-align: justify;
 }
