@@ -64,3 +64,10 @@ body {
 .date p{
 margin: 10px;
 }
+.button  {
+    border: none;
+    padding: 5px 15px;
+    border-radius: 10px;
+    font-size: 15px;
+
+}
