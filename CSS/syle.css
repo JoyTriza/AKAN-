@@ -71,7 +71,7 @@ margin: 10px;
     border-radius: 10px;
     font-size: 15px;
 }
-button:hover {
-    
-
+.button:hover {
+    background-color: black;
+    color: white;
 }
