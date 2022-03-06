@@ -16,6 +16,15 @@ None.
 HTML
 CSS
 JAVASCRIPT
+## BDD
+Write code to handle
+Wrong input entered
+No data entered
+Correct data entered
+Sample input
+02/02/1999 Female
+Expected Output
+Hey there! Your name is Abenaa
 ## Support and contact details
 Tel Number: 0796310123
 Email: wangarijoytriza@gmail.com
