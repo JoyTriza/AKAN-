@@ -10,7 +10,7 @@ body {
 .akannames {
     width: 100vw;
     height: 100vh;
-    background-image: url(../IMAGES/trixxie.jpeg);
+    background-color: black;
     background-size: cover;
     color: black;
     display: flex;
