@@ -10,23 +10,14 @@ body {
 .akannames {
     width: 100vw;
     height: 100vh;
-    background-image: url(../IMAGES/trixxie.jpeg);
+    background-image: url(../IMAGES/4110784781_6e6d858ab5_k.jpg);
     background-size: cover;
     color: black;
     display: flex;
     flex-direction: column;
     
 }
-.box {
-    width: 300px;
-    height: 300px;
-    border-radius: 50%;
-    background-color: green;
-    margin: 10px;
-    background-image: url(../IMAGES/akan.jpeg);
-    background-size: contain;
 
-}
 .akannames h1 {
     font-size: 70px;
     letter-spacing: 3px;
